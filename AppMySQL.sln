@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppMySQL.Android", "AppMySQL.Android\AppMySQL.Android.csproj", "{97108377-4250-411D-9A7F-C798BA6E5066}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppMySQL", "AppMySQL\AppMySQL.csproj", "{27273AE6-2169-4E9F-A6F1-EB4437515D2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97108377-4250-411D-9A7F-C798BA6E5066}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97108377-4250-411D-9A7F-C798BA6E5066}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97108377-4250-411D-9A7F-C798BA6E5066}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{97108377-4250-411D-9A7F-C798BA6E5066}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97108377-4250-411D-9A7F-C798BA6E5066}.Release|Any CPU.Build.0 = Release|Any CPU
+		{97108377-4250-411D-9A7F-C798BA6E5066}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{27273AE6-2169-4E9F-A6F1-EB4437515D2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27273AE6-2169-4E9F-A6F1-EB4437515D2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27273AE6-2169-4E9F-A6F1-EB4437515D2A}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{27273AE6-2169-4E9F-A6F1-EB4437515D2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27273AE6-2169-4E9F-A6F1-EB4437515D2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27273AE6-2169-4E9F-A6F1-EB4437515D2A}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C39EF9F7-5945-4AD9-B103-2C73E7151E8B}
+	EndGlobalSection
+EndGlobal
